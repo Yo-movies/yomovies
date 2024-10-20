@@ -1,4 +1,7 @@
 # This is a basic workflow to help you get started with Actions
+# This workflow is designed for YoMovies to automate continuous integration and deployment processes. 
+# It will run on pushes and pull requests to the main branch, ensuring that the latest code changes are 
+# tested and deployed seamlessly. For more information, visit https://yomovies.wiki.
 
 name: CI for YoMovies
 
